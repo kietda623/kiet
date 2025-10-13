@@ -1,0 +1,10 @@
+1|Thủ đô của Việt Nam là gì?|Hà Nội|Huế|Đà Nẵng|TP.HCM
+2|2 + 2 bằng mấy?|3|6|5|4
+3|Trái đất quay quanh gì?|Mặt trăng|Mặt trời|Sao Hỏa|Sao Kim
+4|Màu lá cây là gì?|Xanh|Đỏ|Tím|Vàng
+5|Số pi xấp xỉ bằng?|2.14|3.42|4.13|3.14
+6|Tháng có 28 ngày là?|Tháng 12|Tháng 3|Tháng 2|Tháng 5
+7|Nước chiếm bao nhiêu % cơ thể?|25|50|90|70
+8|Việt Nam thuộc châu nào?|Mỹ|Á|Âu|Phi
+9|Môn thể thao vua là?|Bóng đá|Bóng chuyền|Cầu lông|Bóng rổ
+10|Sông dài nhất Việt Nam?|Sông Hồng|Sông Mê Kông|Sông Đà|Sông Lam
