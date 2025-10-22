@@ -1,0 +1,15 @@
+13|Trong Shell, cú pháp nào để tạo vòng lặp for cơ bản?|A. for i in 1..5; do ...; done|B. for (i=1; i<=5; i++)|C. loop(1,5)|D. while i < 5
+10|Sông dài nhất Việt Nam?|A. Sông Hồng|B. Sông Mê Kông|C. Sông Đà|D. Sông Lam
+14|Cú pháp nào sau đây dùng để khai báo biến trong Shell?|A. let x = 5|B. var x = 5|C. x=5|D. $x=5
+4|Công nghệ 5G nhanh hơn 4G khoảng bao nhiêu lần ? |A. 2 lần |B. 5 lần|C. 20 lần|D. 10 lần
+6|Lệnh nào dùng để hiển thị thư mục hiện tại trong Shell?|A. ls|B. pwd|C. cd|D. cat
+11|Ký hiệu $? trong Shell dùng để làm gì?|A. Hiển thị PID của tiến trình hiện tại|B. Hiển thị thông báo lỗi|C. Hiển thị mã thoát (exit code) của lệnh trước|D. Khởi chạy tiến trình nền
+5|Số pi xấp xỉ bằng?|A. 2.14|B. 3.42|C. 4.13|D. 3.14
+7|Lệnh #!/bin/bash ở đầu file script có ý nghĩa gì?|A. Tên file|B. Chỉ ra trình thông dịch (interpreter) để chạy script|C. Dòng lệnh shell đầu tiên|D. Cờ thực thi
+15|Trong Shell, $(command) có nghĩa là:|A. Chạy lệnh command và thay thế bằng kết quả trả về|B. Gán giá trị vào biến|C. So sánh chuỗi|D. Không có ý nghĩa
+12|Trong Shell, dấu > có ý nghĩa gì?|A. Ghi đè đầu ra vào file|B. Thêm đầu ra vào file|C. So sánh 2 file|D. Tạo thư mục
+3|Tốc độ ánh sáng trong chân không xấp xỉ bao nhiêu?|A. 300 km/s|B. 3.000 km/s|C. 30.000 km/s|D. 300.000 km/s
+8|Lệnh nào dùng để chạy một file script Shell?|A. open file.sh|B. run file.sh|C. ./file.sh|D. start file.sh
+9|Môn thể thao vua là?|A. Bóng đá|B. Bóng chuyền|C. Cầu lông|D. Bóng rổ
+1|Thủ đô của Việt Nam là gì?|A. Hà Nội|B. Huế|C. Đà Nẵng|D. TP.HCM
+2|Việt Nam có bao nhiêu tỉnh, thành phố trực thuộc trung ương (tính đến năm 2025)?|A. 32|B. 63|C. 51|D. 36
